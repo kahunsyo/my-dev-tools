@@ -7,5 +7,6 @@ source ~/.config/fish/config.fish
 
 # Install bobthefish
 # omf is able to run in fish
+fish
 fish -c 'omf update'
 fish -c 'omf install bobthefish'
